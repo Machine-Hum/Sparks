@@ -14,7 +14,9 @@ Controller
 --------
 Arduino Nano
 
-![alt tag](https://raw.githubusercontent.com/Machine-Hum/Sparks/master/Media%20(Pictures%20%26%20Videos)/IMG_5218.JPG)/IMG_5097.JPG)
+![alt tag](https://raw.githubusercontent.com/Machine-Hum/Sparks/master/Media%20(Pictures%20%26%20Videos)/IMG_5218.JPG)
 ![alt tag](https://raw.githubusercontent.com/Machine-Hum/Sparks/master/Media%20(Pictures%20%26%20Videos)/SolidAssm.JPG)
+
+https://www.youtube.com/watch?v=XQiHkD8VsBM
 
 -Walker (Machinehum)
